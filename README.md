@@ -3,7 +3,7 @@
 
 ### Hi, I'm Eric 👋
 
-I have been self-employed as an [Integrator](https://typo3.com/services/certifications/certified-integrator-listing "TYPO3 CMS Certified Integrator (TCCI)") and developer for [TYPO3 CMS](https://github.com/TYPO3/typo3) since 2011. I love open source and like to share my knowledge with others.  Maybe you are interested in my recently released [TYPO3 CMS sitepackage](/sitepackage).
+I have been self-employed as an [Integrator](https://typo3.com/services/certifications/certified-integrator-listing "TYPO3 CMS Certified Integrator (TCCI)") and developer for [TYPO3 CMS](https://github.com/TYPO3/typo3) since 2011. I love open source and like to share my knowledge with others.  Maybe you are interested in my recently released [TYPO3 CMS sitepackage](https://github.com/EricBode/sitepackage).
 
 Find me on:
 - 🎬 [YouTube](https://www.youtube.com/user/Eric15838)
