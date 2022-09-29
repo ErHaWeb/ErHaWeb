@@ -7,6 +7,14 @@
 
 ### Hi, I'm Eric 👋
 
+<a href="https://github.com/EricBode#gh-light-mode-only" style="float:right;">
+  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=default&hide_border=1#gh-light-mode-only" alt="My GitHub Stats" style="max-width: 50%;" />
+</a>
+
+<a href="https://github.com/EricBode#gh-dark-mode-only" style="float:right;">
+  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=github_dark&hide_border=1#gh-dark-mode-only" alt="My GitHub Stats" style="max-width: 50%;" />
+</a>
+
 I have been self-employed as an [Integrator](https://typo3.com/services/certifications/certified-integrator-listing "TYPO3 CMS Certified Integrator (TCCI)") and developer for [TYPO3](https://github.com/TYPO3/typo3 "TYPO3 CMS – Open Source Content Management") since 2011. I love and [support](https://github.com/EricBode?tab=sponsoring "Regular GitHub sponsorship") open source and like to share my knowledge with others.  Maybe you are interested in my recently released [TYPO3 CMS sitepackage](https://github.com/EricBode/sitepackage "It stays close to the recommended standard").
 
 Find me on:
@@ -14,13 +22,7 @@ Find me on:
 - 🐦 [Twitter](https://twitter.com/ErHaWeb "I mainly use it to interact with the TYPO3 community")
 - 👤 [Facebook](https://www.facebook.com/ErHaWeb "Meet me there in the german and english TYPO3 groups")
 
-<a href="https://github.com/EricBode#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=default&hide_border=1#gh-light-mode-only" alt="My GitHub Stats" style="width: 100%; height: auto;" />
-</a>
-
-<a href="https://github.com/EricBode#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=github_dark&hide_border=1#gh-dark-mode-only" alt="My GitHub Stats" style="width: 100%; height: auto;" />
-</a>
+[![Github](https://img.shields.io/github/followers/EricBode?label=Follow&style=social)](https://github.com/EricBode)
 
 <!--
 **EricBode/EricBode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
