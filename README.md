@@ -1,5 +1,7 @@
 <a href="https://github.com/EricBode">
     <img src="./banner-light.png#gh-light-mode-only" alt="Eric Bode"/>
+</a>
+<a href="https://github.com/EricBode">
     <img src="./banner-dark.png#gh-dark-mode-only" alt="Eric Bode"/>
 </a>
 
