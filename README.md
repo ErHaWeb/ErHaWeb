@@ -22,10 +22,6 @@ Find me on:
   <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=github_dark&hide_border=1#gh-dark-mode-only" alt="My GitHub Stats" style="width: 100%; height: auto;" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricBode)](https://github.com/EricBode/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricBode&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricBode&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true)
 <!--
 **EricBode/EricBode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
