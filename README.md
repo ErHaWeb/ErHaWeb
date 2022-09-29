@@ -15,13 +15,17 @@ Find me on:
 - 👤 [Facebook](https://www.facebook.com/ErHaWeb "Meet me there in the german and english TYPO3 groups")
 
 <a href="https://github.com/EricBode#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" style="width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=default&hide_border=1#gh-light-mode-only" alt="My GitHub Stats" style="width: 100%; height: auto;" />
 </a>
 
 <a href="https://github.com/EricBode#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" style="width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=github_dark&hide_border=1#gh-dark-mode-only" alt="My GitHub Stats" style="width: 100%; height: auto;" />
 </a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricBode)](https://github.com/EricBode/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricBode&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricBode&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true)
 <!--
 **EricBode/EricBode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
