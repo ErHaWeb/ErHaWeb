@@ -15,11 +15,11 @@ Find me on:
 - 👤 [Facebook](https://www.facebook.com/ErHaWeb "Meet me there in the german and english TYPO3 groups")
 
 <a href="https://github.com/EricBode#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=default&hide_border=1#gh-light-mode-only" alt="My GitHub Stats" style="margin: 0 auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=default&hide_border=1#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/EricBode#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=github_dark&hide_border=1#gh-dark-mode-only" alt="My GitHub Stats" style="margin: 0 auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=github_dark&hide_border=1#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
 
 <!--
