@@ -1,5 +1,9 @@
-[![Eric Bode](./banner-dark.png#gh-dark-mode-only)](./ "Eric Bode")
-[![Eric Bode](./banner-light.png#gh-light-mode-only)](./ "Eric Bode")
+<a href="https://github.com/EricBode#gh-light-mode-only">
+    <img src="./banner-light.png#gh-light-mode-only" alt="Eric Bode"/>
+</a>
+<a href="https://github.com/EricBode#gh-dark-mode-only">
+    <img src="./banner-dark.png#gh-dark-mode-only" alt="Eric Bode"/>
+</a>
 
 ### Hi, I'm Eric 👋
 
@@ -9,6 +13,14 @@ Find me on:
 - 🎬 [YouTube](https://www.youtube.com/user/Eric15838 "Interesting topics from my daily work, which I examine in more detail in this channel")
 - 🐦 [Twitter](https://twitter.com/ErHaWeb "I mainly use it to interact with the TYPO3 community")
 - 👤 [Facebook](https://www.facebook.com/ErHaWeb "Meet me there in the german and english TYPO3 groups")
+
+<a href="https://github.com/EricBode#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
+</a>
+
+<a href="https://github.com/EricBode#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
 
 <!--
 **EricBode/EricBode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
