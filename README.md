@@ -1,7 +1,7 @@
-<a href="https://github.com/EricBode">
+<a href="https://github.com/EricBode#gh-light-mode-only">
     <img src="./banner-light.png#gh-light-mode-only" alt="Eric Bode"/>
 </a>
-<a href="https://github.com/EricBode">
+<a href="https://github.com/EricBode#gh-dark-mode-only">
     <img src="./banner-dark.png#gh-dark-mode-only" alt="Eric Bode"/>
 </a>
 
