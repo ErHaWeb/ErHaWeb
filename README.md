@@ -1,7 +1,5 @@
-<a href="https://github.com/EricBode#gh-light-mode-only">
+<a href="https://github.com/EricBode">
     <img src="./banner-light.png#gh-light-mode-only" alt="Eric Bode"/>
-</a>
-<a href="https://github.com/EricBode#gh-dark-mode-only">
     <img src="./banner-dark.png#gh-dark-mode-only" alt="Eric Bode"/>
 </a>
 
@@ -15,11 +13,11 @@ Find me on:
 - 👤 [Facebook](https://www.facebook.com/ErHaWeb "Meet me there in the german and english TYPO3 groups")
 
 <a href="https://github.com/EricBode#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" style="width: 100%; height: auto;" />
 </a>
 
 <a href="https://github.com/EricBode#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" style="width: 100%; height: auto;" />
 </a>
 
 <!--
