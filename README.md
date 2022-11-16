@@ -10,7 +10,7 @@
 I have been self-employed as an [Integrator](https://typo3.com/services/certifications/certified-integrator-listing "TYPO3 CMS Certified Integrator (TCCI)") and developer for [TYPO3](https://github.com/TYPO3/typo3 "TYPO3 CMS – Open Source Content Management") since 2011. I love and [support](https://github.com/EricBode?tab=sponsoring "Regular GitHub sponsorship") open source software and like to share my knowledge with others. Maybe you are interested in my recently released [TYPO3 CMS sitepackage](https://github.com/EricBode/sitepackage "It stays close to the recommended standard").
 
 Find me on:
-- 🎬 [YouTube](https://www.youtube.com/user/Eric15838 "Interesting topics from my daily work, which I examine in more detail in this channel")
+- 🎬 [YouTube](https://www.youtube.com/@ErHaWeb "Interesting topics from my daily work, which I examine in more detail in this channel")
 - 🐦 [Twitter](https://twitter.com/ErHaWeb "I mainly use it to interact with the TYPO3 community")
 - 👤 [Facebook](https://www.facebook.com/ErHaWeb "Meet me there in the german and english TYPO3 groups")
 
