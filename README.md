@@ -1,29 +1,29 @@
-<a href="https://github.com/EricBode#gh-light-mode-only">
-    <img src="./banner-light.png#gh-light-mode-only" alt="Eric Bode"/>
+<a href="https://github.com/ErHaWeb#gh-light-mode-only">
+    <img src="./banner-light.png#gh-light-mode-only" alt="Eric Harrer"/>
 </a>
-<a href="https://github.com/EricBode#gh-dark-mode-only">
-    <img src="./banner-dark.png#gh-dark-mode-only" alt="Eric Bode"/>
+<a href="https://github.com/ErHaWeb#gh-dark-mode-only">
+    <img src="./banner-dark.png#gh-dark-mode-only" alt="Eric Harrer"/>
 </a>
 
 ### Hi, I'm Eric 👋
 
-I have been self-employed as an [Integrator](https://typo3.com/services/certifications/certified-integrator-listing "TYPO3 CMS Certified Integrator (TCCI)") and developer for [TYPO3](https://github.com/TYPO3/typo3 "TYPO3 CMS – Open Source Content Management") since 2011. I love and [support](https://github.com/EricBode?tab=sponsoring "Regular GitHub sponsorship") open source software and like to share my knowledge with others. Maybe you are interested in my recently released [TYPO3 CMS sitepackage](https://github.com/EricBode/sitepackage "It stays close to the recommended standard").
+I have been self-employed as an [Integrator](https://typo3.com/services/certifications/certified-integrator-listing "TYPO3 CMS Certified Integrator (TCCI)") and developer for [TYPO3](https://github.com/TYPO3/typo3 "TYPO3 CMS – Open Source Content Management") since 2011. I love and [support](https://github.com/ErHaWeb?tab=sponsoring "Regular GitHub sponsorship") open source software and like to share my knowledge with others. Maybe you are interested in my recently released [TYPO3 CMS sitepackage](https://github.com/ErHaWeb/sitepackage "It stays close to the recommended standard").
 
 Find me on:
 - 🎬 [YouTube](https://www.youtube.com/@ErHaWeb "Interesting topics from my daily work, which I examine in more detail in this channel")
 - 🐦 [Twitter](https://twitter.com/ErHaWeb "I mainly use it to interact with the TYPO3 community")
 - 👤 [Facebook](https://www.facebook.com/ErHaWeb "Meet me there in the german and english TYPO3 groups")
 
-<a href="https://github.com/EricBode#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=default&hide_border=1#gh-light-mode-only" alt="My GitHub Stats" />
+<a href="https://github.com/ErHaWeb#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErHaWeb&show_icons=true&theme=default&hide_border=1#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 
-<a href="https://github.com/EricBode#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricBode&show_icons=true&theme=github_dark&hide_border=1#gh-dark-mode-only" alt="My GitHub Stats" />
+<a href="https://github.com/ErHaWeb#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErHaWeb&show_icons=true&theme=github_dark&hide_border=1#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
 
 <!--
-**EricBode/EricBode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ErHaWeb/ErHaWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
