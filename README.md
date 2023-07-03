@@ -16,6 +16,7 @@ Maybe you are interested in my [TYPO3 CMS Sitepackage](https://github.com/ErHaWe
 Find me on:
 - 🌐 [My Website](https://www.eric-harrer.de/ "Get some information about me, my customers and references")
 - 🐦 [Twitter](https://twitter.com/ErHaWeb "I mainly use it to interact with the TYPO3 community")
+- 🦣 <a rel="me" href="https://phpc.social/@ErHaWeb" title="Find me in the Fediverse">Mastodon</a>
 - 🎬 [YouTube](https://www.youtube.com/@ErHaWeb "Interesting topics from my daily work, which I examine in more detail in this channel")
 - 👤 [Facebook](https://www.facebook.com/ErHaWeb "Meet me there in the german and english TYPO3 groups")
 - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/ErHaWeb "This is about business talks")
