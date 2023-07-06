@@ -7,7 +7,7 @@
 
 ### Hi, I'm Eric 👋
 
-I have been self-employed as an [Integrator](https://typo3.com/services/certifications/certified-integrator-listing "TYPO3 CMS Certified Integrator (TCCI)") and developer for [TYPO3 CMS](https://github.com/TYPO3/typo3 "TYPO3 CMS – Open Source Content Management") since 2011.
+since 2011 I am self-employed as a [certified integrator](https://typo3.com/services/certifications/certified-integrator-listing "TYPO3 CMS Certified Integrator (TCCI)") and developer for [TYPO3 CMS](https://github.com/TYPO3/typo3 "TYPO3 CMS – Open Source Content Management").
 
 I love and [support](https://github.com/ErHaWeb?tab=sponsoring "Regular GitHub sponsorship") open source software and like to share my knowledge with others.
 
@@ -16,7 +16,7 @@ Maybe you are interested in my
 - [TYPO3 auto-installation bash scripts](https://gist.github.com/ErHaWeb/961dc1029ce05cee49825f4600219573)
 - [Feed Display TYPO3 Extension](https://github.com/ErHaWeb/feed_display)
 
-Find me on:
+Find and contact me via:
 - 🌐 [My Website](https://www.eric-harrer.de/ "Get some information about me, my customers and references")
 - 🐦 [Twitter](https://twitter.com/ErHaWeb "I mainly use it to interact with the TYPO3 community")
 - 🦣 <a rel="me" href="https://phpc.social/@ErHaWeb" title="Find me in the Fediverse">Mastodon</a>
