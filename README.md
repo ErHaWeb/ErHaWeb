@@ -1,13 +1,13 @@
 <a href="https://github.com/ErHaWeb#gh-light-mode-only">
-    <img src="./banner-light.png#gh-light-mode-only" alt="Eric Harrer"/>
+    <img src="./github-README-light.png#gh-light-mode-only" alt="Eric Harrer"/>
 </a>
 <a href="https://github.com/ErHaWeb#gh-dark-mode-only">
-    <img src="./banner-dark.png#gh-dark-mode-only" alt="Eric Harrer"/>
+    <img src="./github-README-dark.png#gh-dark-mode-only" alt="Eric Harrer"/>
 </a>
 
 ### Hi, I'm Eric 👋
 
-since 2011 I am self-employed as a [certified integrator](https://typo3.com/services/certifications/certified-integrator-listing "TYPO3 CMS Certified Integrator (TCCI)") and developer for [TYPO3 CMS](https://github.com/TYPO3/typo3 "TYPO3 CMS – Open Source Content Management").
+since 2011 I am self-employed as a certified [integrator](https://typo3.com/services/certifications/certified-integrator-listing "TYPO3 CMS Certified Integrator (TCCI)") (TCCI) and [developer](https://typo3.com/services/certifications/certified-developer-listing "TYPO3 CMS Certified Integrator (TCCD)") (TCCD) for [TYPO3 CMS](https://github.com/TYPO3/typo3 "TYPO3 CMS – Open Source Content Management").
 
 I love and [support](https://github.com/ErHaWeb?tab=sponsoring "Regular GitHub sponsorship") open source software and like to share my knowledge with others.
 
