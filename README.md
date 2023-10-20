@@ -12,9 +12,11 @@ since 2011 I am self-employed as a certified [integrator](https://typo3.com/serv
 I love and [support](https://github.com/ErHaWeb?tab=sponsoring "Regular GitHub sponsorship") open source software and like to share my knowledge with others.
 
 Maybe you are interested in my
+- [Klaro! Consent Manager TYPO3 Extension](https://extensions.typo3.org/extension/klaro_consent_manager)
+- [Feed Display TYPO3 Extension](https://github.com/ErHaWeb/feed_display)
+- [Partner Rating TYPO3 Extension](https://extensions.typo3.org/extension/partner_rating)
 - [TYPO3 CMS Sitepackage](https://github.com/ErHaWeb/sitepackage "It stays close to the recommended standard")
 - [TYPO3 auto-installation bash scripts](https://gist.github.com/ErHaWeb/961dc1029ce05cee49825f4600219573)
-- [Feed Display TYPO3 Extension](https://github.com/ErHaWeb/feed_display)
 
 Find and contact me via:
 - 🌐 [My Website](https://www.eric-harrer.de/ "Get some information about me, my customers and references")
