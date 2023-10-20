@@ -13,7 +13,7 @@ I love and [support](https://github.com/ErHaWeb?tab=sponsoring "Regular GitHub s
 
 Maybe you are interested in my
 - [Klaro! Consent Manager TYPO3 Extension](https://extensions.typo3.org/extension/klaro_consent_manager)
-- [Feed Display TYPO3 Extension](https://github.com/ErHaWeb/feed_display)
+- [Feed Display TYPO3 Extension](https://extensions.typo3.org/extension/feed_display)
 - [Partner Rating TYPO3 Extension](https://extensions.typo3.org/extension/partner_rating)
 - [TYPO3 CMS Sitepackage](https://github.com/ErHaWeb/sitepackage "It stays close to the recommended standard")
 - [TYPO3 auto-installation bash scripts](https://gist.github.com/ErHaWeb/961dc1029ce05cee49825f4600219573)
