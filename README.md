@@ -28,7 +28,7 @@ Find and contact me via:
 - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/ErHaWeb "This is about business talks")
 
 <a href="https://github.com/ErHaWeb/sitepackage" title="It stays close to the recommended standard">
-  <img src="https://repository-images.githubusercontent.com/539519855/ed6c3406-0d4b-47b7-b9c9-5207143c03e4" alt="TYPO3 Sitepackage" width="467" height="234" />
+  <img src="https://repository-images.githubusercontent.com/539519855/ed6c3406-0d4b-47b7-b9c9-5207143c03e4" alt="TYPO3 Sitepackage" width="467" />
 </a>
 
 <a href="https://github.com/ErHaWeb#gh-light-mode-only">
