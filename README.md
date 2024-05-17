@@ -35,6 +35,10 @@ Find and contact me via:
   <img src="https://github-readme-stats.vercel.app/api?username=ErHaWeb&show_icons=true&theme=github_dark&hide_border=1#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
 
+<a href="https://github.com/ErHaWeb/sitepackage" title="It stays close to the recommended standard">
+  <img src="https://repository-images.githubusercontent.com/539519855/ed6c3406-0d4b-47b7-b9c9-5207143c03e4" alt="TYPO3 Sitepackage" />
+</a>
+
 <!--
 **ErHaWeb/ErHaWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
