@@ -27,16 +27,16 @@ Find and contact me via:
 - 👤 [Facebook](https://www.facebook.com/ErHaWeb "Meet me there in the german and english TYPO3 groups")
 - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/ErHaWeb "This is about business talks")
 
+<a href="https://github.com/ErHaWeb/sitepackage" title="It stays close to the recommended standard">
+  <img src="https://repository-images.githubusercontent.com/539519855/ed6c3406-0d4b-47b7-b9c9-5207143c03e4" alt="TYPO3 Sitepackage" width="467" height="234" />
+</a>
+
 <a href="https://github.com/ErHaWeb#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=ErHaWeb&show_icons=true&theme=default&hide_border=1#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/ErHaWeb#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=ErHaWeb&show_icons=true&theme=github_dark&hide_border=1#gh-dark-mode-only" alt="My GitHub Stats" />
-</a>
-
-<a href="https://github.com/ErHaWeb/sitepackage" title="It stays close to the recommended standard">
-  <img src="https://repository-images.githubusercontent.com/539519855/ed6c3406-0d4b-47b7-b9c9-5207143c03e4" alt="TYPO3 Sitepackage" width="467" height="234" />
 </a>
 
 <!--
